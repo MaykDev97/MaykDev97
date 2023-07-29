@@ -1,49 +1,52 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="[https://mega.nz/file/ehMEmDAA#zvGMKuymPcF9LsDLf3UfYTNOYfHcPLWwGvvY0Yt2Hlg]" />
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
-</p>
-
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+#
 <p align="center">
-   <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
-  </a>
-   <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
-  </a>
+    <img src="https://avatars.githubusercontent.com/MaykDev97" alt="Avatar de MaykDev97" title="Avatar de MaykDev97" class="avatar" />
 </p>
 
+<style>
+.avatar {
+    
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+</style>
 
-<!--
-**MaykDev97/MaykDev97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <p align="center"> 
+        <h3 align="center">Hi 👋, I'm MaykDev97 👨🏻‍💻</h3>
+        <p>I am
+        <strong>Junior Web Developer</strong> 
+        from Havana City, Cuba 🇨🇺
+        <br />  
+        Keep an eye on my CV👇!  
+        </p>
+    </p>
+    <p>
+        <a href="https://www.linkedin.com/in/maykdev97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" width="160" /></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge" width="196" />
+    </p>
+    <!-- ><p align="center">
+        <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
+        </a>
+        <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+        </a>
+        <a href="https://instagram.com/midu.dev" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+        </a>
+        <a href="https://twitter.com/midudev" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+        </a>
+    </p> -->
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi 👋, I'm MaykDev97 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-
-
+#
 [<img src="https://img.shields.io/github/stars/MaykDev97?affiliations=OWNER&color=%23ffe411&label=GitHub%20Stars&logo=github&logoColor=%23fffFF&style=flat" alt="Stars" title="Stars" />][knowledge_anchor]
 [<img src="https://img.shields.io/github/followers/MaykDev97?affiliations=OWNER&label=Followers&logo=github&logoColor=%23fffFF&style=flat" alt="Followers" title="Followers" />][knowledge_anchor]
 [![Repositorios](https://img.shields.io/badge/Repositorios-12-green.svg)](https://github.com/MaykDev97?tab=repositories)
-
-#### I am a Junior Web Developer from Havana City, Cuba 🇨🇺
-
 
 🔭 Working in the tech industry.<br/>
 🌱 Improving my English and learning more Technologies.<br/>
@@ -108,11 +111,10 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 
-## 
+#
 
 [knowledge_anchor]: #MayDev97-freelancerhttpsimgshieldsiobadgefreelancer-29b2festylefor-the-badgelogofreelancerlogocolorwhite
 [learning_now_anchor]: #-languages--technologies
 [learning_next_anchor]: #--what-i-am-currently-learning--improving-on
-
 
 
