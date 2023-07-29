@@ -1,16 +1,4 @@
-#
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/MaykDev97" alt="Avatar de MaykDev97" title="Avatar de MaykDev97" class="avatar" />
-</p>
 
-<style>
-.avatar {
-    
-  border-radius: 50%;
-  width: 250px;
-  height: 250px;
-}
-</style>
 
 <div align="center">
     <p align="center"> 
