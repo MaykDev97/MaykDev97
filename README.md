@@ -4,7 +4,7 @@
     <p align="center"> 
         <h3 align="center">Hi 👋, I'm MaykDev97 👨🏻‍💻</h3>
         <p>I am
-        <strong>Junior Web Developer</strong> 
+        <strong> Web Developer</strong> 
         from Havana City, Cuba 🇨🇺
         <br />  
         Keep an eye on my CV👇!  
