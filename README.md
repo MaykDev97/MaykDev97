@@ -42,7 +42,7 @@
 💼 +2 years of experience as a developer.<br/>
 🌎 I love to travel and see the world.<br/>
 
-[![MaykDev97's github stats](https://github-readme-stats.vercel.app/api?username=MaykDev97&show_icons=true&hide_border=true)](https://github.com/MacKey-255)
+[![MaykDev97's github stats](https://github-readme-stats.vercel.app/api?username=MaykDev97&show_icons=true&hide_border=true)](https://github.com/MaykDev97)
 
 ## 🛠 Languages & Technologies
 
