@@ -37,12 +37,10 @@
 [![Repositorios](https://img.shields.io/badge/Repositorios-12-green.svg)](https://github.com/MaykDev97?tab=repositories)
 
 🔭 Working in the tech industry.<br/>
-🌱 Improving my English and learning more Technologies.<br/>
+🌱 Improving my English .<br/>
 🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
 💼 +2 years of experience as a developer.<br/>
 🌎 I love to travel and see the world.<br/>
-💻 Using Operative System
-[<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows logo" title="Windows" height="20" />][knowledge_anchor]
 
 [![MaykDev97's github stats](https://github-readme-stats.vercel.app/api?username=MaykDev97&show_icons=true&hide_border=true)](https://github.com/MacKey-255)
 
