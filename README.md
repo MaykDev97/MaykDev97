@@ -2,7 +2,7 @@
 
 <div align="center">
     <p align="center"> 
-        <h3 align="center">Hi 👋, I'm MaykDev97 👨🏻‍💻</h3>
+        <h3 align="center">Hi 👋, I'm <MaykDev97/> 👨🏻‍💻</h3>
         <p>I am
         <strong> Web Developer</strong> 
         from Havana City, Cuba 🇨🇺
